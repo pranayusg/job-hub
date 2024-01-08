@@ -1,0 +1,109 @@
+{
+	"data": [
+		{
+			"id": 56008,
+			"code": "JOB-01",
+			"title": "Software Engineer - React JS",
+			"description": "<div><h1 class='text-2xl font-semibold pb-1 text-blue-900'>Looking for React Experts.</h1><br /><h2 class='text-lg font-semibold text-blue-900'>Job Overview</h2><p>You must understand the ins and outs of ReactJS, with an obsession forcode quality. We want someone that is proud and obsessive in deliveringquality products. Get-it-done attitude as an independent thinker whoenjoys creating solutions in a collaborative environment.<br /><br /><h2 class='text-base font-semibold'>Location: GOA <br />Work Mode: Hybrid</h2></p><br /><h2 class='text-lg font-semibold text-blue-900'>Requirements:</h2><ul class='list-disc'><li>2+ years of ReactJS / Angular JS Experience</li><li>Understand inheritance in Javascript and object oriented andfunctional programming concepts</li><li>Extensive experience with ReactJS, Redux</li><li>Expertise with HTML5 and CSS3</li><li>Comfortable translating complex visual designs into clean and modularHTML markup and CSS</li><li>Know how to work with version control systems.</li><li>Bachelors degree in Computer Science or related technical field.</li><li>Laptop/Desktop and Wired Broadband connection to be able to join Workfrom Home</li></ul><br /><h2 class='text-lg font-semibold text-blue-900'>Bonus Points if:</h2><ul class='list-disc'><li>You have an advanced degree (e.g. M.Tech) in Computer Science orrelated technical field.</li><li>Knowledge of LESS/SASS, Bootstrap, PureCSS</li><li>Understanding of memory management in JavaScript.</li><li>Experience with Webpack, Typescript, ASP.NET, NodeJS</li></ul></div>",
+			"type": "Full Time",
+			"positions": 5,
+			"experience": "3 - 5 years",
+			"salary": "$5000 - $7000",
+			"industry": "Computer / Software",
+			"location": {
+				"id": 9928,
+				"title": "Verna",
+				"city": "Baltimore",
+				"state": "MD",
+				"country": "United States",
+				"zip": 21202
+			},
+			"department": {
+				"id": 2085,
+				"title": "Engineering"
+			},
+			"division": {
+				"id": 1055,
+				"title": "Frontend Development"
+			},
+			"function": {
+				"id": 5189,
+				"title": "Engineering"
+			},
+			"postedDate": "2024-01-06T09:14:20.079Z",
+			"closingDate": "2024-01-06T09:14:20.079Z",
+			"hostedUrl": "https://demo.jobsoid.com/JobDetails/56008",
+			"applyUrl": "https://demo.jobsoid.com/Apply/56008"
+		},
+		{
+			"id": 59347,
+			"code": "JOB-02",
+			"title": "Business Development Executive",
+			"description": "<div><h2 class='text-lg font-semibold text-blue-900'>Job Overview</h2><p>We are in search of a Business Development Executive to be a part of ourSales team. You should be able to approach and acquire new customers.Besides, you should also be able to maintain long-term business relations with the existing customers.<br /></p><br /><h2 class='text-lg font-semibold text-blue-900'>Responsibilities:</h2><ul class='list-disc'><li>Setting up meetings with potential clients to discuss opportunities.</li><li>Follow up with leads with the objective to convert them intocustomers.</li><li>Perform cold calling to set appointments to new businesses.BE</li><li>Staying up-to-date with the company’s products and services.</li><li>Helping customers with their queries and advising them on the purchaseof products and services.</li><li>Attending and participating in conferences and sessions to upgradeyour skills.</li><li>Conducting market research and identifying new business opportunities.</li><li>Creating and maintaining a database of potential customers.</li></ul><br /><h2 class='text-lg font-semibold text-blue-900'>Requirements:</h2><ul class='list-disc'><li>Proven work experience in the Sales department as a BusinessDevelopment Executive, Business Development Representative or asimilar role.</li><li>Knowledge of various sales processes and techniques.</li><li>Familiarity with Microsoft Office tools and CRM software likeSalesforce and HubSpot.</li><li>Good time management and organizational skills.</li><li>Strong analytical and problem-solving skills.</li><li>Excellent communication and interpersonal skills.</li><li>Research-driven and detail-oriented individual.</li><li>A team player as well as able to work independently.</li><li class='font-semibold'>Having an experience of 2+ years.</li></ul><br /></div>",
+			"type": "Full Time",
+			"positions": 5,
+			"experience": "3 - 5 years",
+			"salary": "$5000 - $7000",
+			"industry": "Computer / Software",
+			"location": {
+				"id": 14965,
+				"title": "Amex Square",
+				"city": "Cape Town",
+				"state": "",
+				"country": "South Africa",
+				"zip": 21205
+			},
+			"department": {
+				"id": 7336,
+				"title": "Business Development"
+			},
+			"division": {
+				"id": 1055,
+				"title": "Executive"
+			},
+			"function": {
+				"id": 102,
+				"title": "Business Development"
+			},
+			"postedDate": "2024-01-06T09:14:20.079Z",
+			"closingDate": "2024-01-06T09:14:20.079Z",
+			"hostedUrl": "https://demo.jobsoid.com/JobDetails/59347",
+			"applyUrl": "https://demo.jobsoid.com/Apply/59347"
+		},
+		{
+			"id": 52034,
+			"code": "JOB-03",
+			"title": "Software Engineer -.NET",
+			"description": "<div><h1 class='text-2xl font-semibold pb-1 text-blue-900'>Looking for skilled developers with a background in ASP.NET MVC / .NETCore.</h1><br /><h2 class='text-lg font-semibold text-blue-900'>Responsibilities:</h2><p>This position requires active participation throughout the developmentlifecycle. Develop features/applications, including collaboration inrequirements definition, prototyping, design, coding, testing anddeployment. Implement robust, highly scalable, highly optimized backendcomponents. Evaluate and integrate latest technologies and third partylibraries/APIs. Contribute to design, code, specification andarchitectural reviews and technical documentation. Ensure that thelong-term architectural and performance strategies are considered withdesigning and coding solutions.<br /><br /><h2 class='text-base font-semibold text-blue-900'>Location: GOA <br />Work Mode: Hybrid</h2></p><br /><h2 class='text-lg font-semibold text-blue-900'>Requirements:</h2><ul class='list-disc'><li>2+ years of ASP.NET MVC hands on Experience</li><li>B.E. (CSE/IT) or MCA graduate</li><li>Fair understanding in Object Oriented Design</li><li>{' '}Hands on experience in database action and DDL queries. (any one ofSQL, PostgreSql, Mysql, Access etc.)</li><li>Possess strong analytical/logical thinking</li><li> Good troubleshooting and communication skills</li><li> Ability to adhere to timeline</li><li>Having experience in developing Mobile Applications will be an addedadvantage</li><li>Understanding of Software Design Patterns will be an added advantage</li><li>Experience in .NET Core will be an added advantage</li><li>Experience in source control tool like GIT will be an added advantage.</li></ul><br /></div>",
+			"type": "Full Time",
+			"positions": 5,
+			"experience": "3 - 5 years",
+			"salary": "$5000 - $7000",
+			"industry": "Computer / Software",
+			"location": {
+				"id": 11193,
+				"title": "Cerebrum IT Park - Pune",
+				"city": "Pune",
+				"state": "Maharashtra",
+				"country": "India",
+				"zip": 411014
+			},
+			"department": {
+				"id": 2085,
+				"title": "Engineering"
+			},
+			"division": {
+				"id": 1055,
+				"title": "Backend Development"
+			},
+			"function": {
+				"id": 5189,
+				"title": "Engineering"
+			},
+			"postedDate": "2024-01-06T09:14:20.079Z",
+			"closingDate": "2024-01-06T09:14:20.079Z",
+			"hostedUrl": "https://demo.jobsoid.com/JobDetails/52034",
+			"applyUrl": "https://demo.jobsoid.com/Apply/52034"
+		}
+	]
+}

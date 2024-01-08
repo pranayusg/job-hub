@@ -1,0 +1,42 @@
+export const CONSTANTS = {
+	DEPARTMENT: 'Department',
+	LOCATION: 'Location',
+	FUNCTION: 'Function',
+	SEARCH_TEXT: 'searchText',
+	FILTERS: 'filters',
+	INITIAL_JOB_ITEM: {
+		id: 0,
+		code: '',
+		title: '',
+		description: '',
+		type: '',
+		positions: 0,
+		experience: '',
+		salary: '',
+		industry: '',
+		location: {
+			id: 0,
+			title: '',
+			city: '',
+			state: '',
+			country: '',
+			zip: 0,
+		},
+		department: {
+			id: 0,
+			title: '',
+		},
+		division: {
+			id: 0,
+			title: '',
+		},
+		function: {
+			id: 0,
+			title: '',
+		},
+		postedDate: '',
+		closingDate: '',
+		hostedUrl: '',
+		applyUrl: '',
+	},
+};

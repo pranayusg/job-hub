@@ -1,26 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { useEffect } from 'react';
+import { Routes, Route } from 'react-router-dom';
+import JobList from './pages/JobList';
+import { initFlowbite } from 'flowbite';
+import JobDetails from './pages/JobDetails';
+import PageNotFound from './components/PageNotFound';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+	useEffect(() => {
+		initFlowbite();
+	}, []);
+
+	return (
+		<div className="App">
+			<Routes>
+				<Route path="" element={<JobList />} />
+				<Route path="/details/:jobId" element={<JobDetails />} />
+				<Route path="*" element={<PageNotFound />} />.
+			</Routes>
+		</div>
+	);
+};
 
 export default App;
