@@ -1,6 +1,5 @@
 # Job Hub
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project to explore jobs.
 
 ## Libraries used
 - Typescript for type checking.
@@ -28,3 +27,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Details page with invalid job id 
 ![image](https://github.com/pranayusg/job-hub/assets/66126225/65b8907b-272d-4927-abf6-c26f8e375496)
+
+- 404 Page
+
+![image](https://github.com/pranayusg/job-hub/assets/66126225/60adb599-ffb6-4e06-b10d-cee7f0b0bd58)
+
