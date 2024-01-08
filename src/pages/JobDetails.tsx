@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { jobsService } from '../services/jobs.service';
 import { IJobItem } from '../interfaces/jobsInterface';
 import DisplayJobDetails from '../components/DisplayJobDetails';
-import JobNotFound from '../components/JobNotFound';
+import PageNotFound from '../components/common/PageNotFound';
 import { CONSTANTS } from '../constants/constants';
 
 const JobDetails = () => {
@@ -45,7 +45,7 @@ const JobDetails = () => {
 					jobsFromSameDepartment={jobsFromSameDepartment}
 				/>
 			) : (
-				<JobNotFound />
+				<PageNotFound isInvalidRoute={false} />
 			)}
 		</div>
 	);
